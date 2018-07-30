@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!--Popup button-->
+  <dimen name="window_size">66dp</dimen>
+  <dimen name="button_size">50dp</dimen>
+  <dimen name="size_to_hide">8dp</dimen>
+  <dimen name="size_to_hide_xml">-8dp</dimen>
+</resources>
